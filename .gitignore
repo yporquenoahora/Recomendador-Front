@@ -1,5 +1,4 @@
 
-dist/index.html
 node_modules/.package-lock.json
 node_modules/.bin/color-support
 node_modules/.bin/color-support.cmd
@@ -2960,3 +2959,5 @@ src/img/ejemplo_acordes_mayores.png
 src/img/generos_occidente.png
 src/img/usuarios_spotify.png
 src/models/embedParams.js
+.gitignore
+.gitignore
